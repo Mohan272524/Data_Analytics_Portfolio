@@ -29,10 +29,10 @@ Below are the projects completed during the internship.
 
 | Task | Project Title | Description | Repository |
 |-----|--------------|-------------|------------|
-| Task-1 | Data Cleaning & Analysis | Data preprocessing and preparation for analysis | https://github.com/Sasikumar-19/Data_Wrangling |
-| Task-2 | Exploratory Data Analysis | Business insights using Python and SQL | https://github.com/Sasikumar-19/Exploratory_data_analysis |
-| Task-3 | Interactive Dashboard | KPI analysis and Power BI dashboard | https://github.com/Sasikumar-19/Deep_dive_analysis_Interactive_dashboard |
-| Task-4 | A/B Testing & Hypothesis Testing | Statistical validation of experimental results | https://github.com/Sasikumar-19/Statstical_Validation|
+| Task-1 | Data Cleaning & Analysis | Data preprocessing and preparation for analysis |https://github.com/Mohan272524/task1-data-wragling-mohan |
+| Task-2 | Exploratory Data Analysis | Business insights using Python and SQL | https://github.com/Mohan272524/task2--EDA-BuisenessIntelligence |
+| Task-3 | Interactive Dashboard | KPI analysis and Power BI dashboard | https://github.com/Mohan272524/Deep-dive-analysis_Interactive_dashboard |
+| Task-4 | A/B Testing & Hypothesis Testing | Statistical validation of experimental results | https://github.com/Mohan272524/Statistical_validation|
 
 ---
 
